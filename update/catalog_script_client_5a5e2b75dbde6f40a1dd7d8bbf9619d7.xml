@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>set</applies_to>
+        <cat_item/>
+        <cat_variable>IO:81916371db5e6f40a1dd7d8bbf961974</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Pull User Info - TMS</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) { 
+
+	var ga = new GlideAjax('global.UserInfoHelper'); // the Script Include object name
+	ga.addParam('sysparm_name', 'getUserData'); // the function on the server to call
+	ga.addParam('sysparm_theid', newValue);
+	ga.getXML(callMe);
+
+	function callMe(response) {
+
+		var answer = response.responseXML.documentElement.getAttribute("answer");
+		//alert(answer); //JSON String
+
+				//answer = answer.evalJSON(); //This line is no longer supported on CSM portal
+		answer = JSON.parse(answer);//Transform the JSON string to an object
+
+		//g_form.setValue('location', answer.location);
+		g_form.setValue('phone', answer.phone);
+		//g_form.setValue('cost_center', answer.cost_center);
+		//g_form.setValue('approver', answer.manager);
+		g_form.setValue('email', answer.email);
+		
+	}
+
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-12-11 18:48:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>5a5e2b75dbde6f40a1dd7d8bbf9619d7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Pull User Info - TMS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+        <sys_update_name>catalog_script_client_5a5e2b75dbde6f40a1dd7d8bbf9619d7</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-12-11 19:43:23</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set display_value="User information - TMS">02016bbddb1e6f40a1dd7d8bbf96192b</variable_set>
+        <view/>
+    </catalog_script_client>
+</record_update>

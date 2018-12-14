@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>TEMPLATE810</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-12-06 17:29:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1b5ce1d0dbd26740b3d8fcfa0c96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE810</sys_name>
+        <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+        <sys_update_name>sys_template_1b5ce1d0dbd26740b3d8fcfa0c96194f</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-12-06 17:29:32</sys_updated_on>
+        <table>x_sthc_tms_link_tms_work_order</table>
+        <template>description=Light Bulb out at NSSC^requester=9dd736c46fd4710068ceda0cbb3ee476^requester_comments=Please Call user^requester_phone=775-830-1527^tms_account=OSB BE^tms_priority=9^tms_skills=BE^tms_status=ACTIV^tms_sub_status=INPRG^tms_type=SR^EQ</template>
+        <user display_value="Louie Gomez">9dd736c46fd4710068ceda0cbb3ee476</user>
+        <view/>
+    </sys_template>
+</record_update>

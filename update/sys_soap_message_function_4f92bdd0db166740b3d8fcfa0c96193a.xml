@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message_function">
+    <sys_soap_message_function action="INSERT_OR_UPDATE">
+        <authentication_type/>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <certificate/>
+        <enable_mutual_auth>false</enable_mutual_auth>
+        <envelope><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://www.frsoft.com/webservices">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <web:SaveTimeChargeArray>
+         <!--Optional:-->
+         <web:header>
+            <!--Optional:-->
+            <web:Server>${header.Server}</web:Server>
+            <!--Optional:-->
+            <web:Database>${header.Database}</web:Database>
+            <!--Optional:-->
+            <web:UserName>${header.UserName}</web:UserName>
+            <!--Optional:-->
+            <web:Password>${header.Password}</web:Password>
+            <!--Optional:-->
+            <web:PassKey>${header.PassKey}</web:PassKey>
+            <!--Optional:-->
+            <web:HostName>${header.HostName}</web:HostName>
+         </web:header>
+         <!--Optional:-->
+         <web:workOrderID>
+            <!--Zero or more repetitions:-->
+            <web:int>${workOrderID.int}</web:int>
+         </web:workOrderID>
+         <!--Optional:-->
+         <web:sdkTimeCharge>
+            <!--Zero or more repetitions:-->
+            <web:TimeCharge>
+               <web:SegmentID>${TimeCharge.SegmentID}</web:SegmentID>
+               <web:ValidateForDataImport>${TimeCharge.ValidateForDataImport}</web:ValidateForDataImport>
+               <web:KeyID>${TimeCharge.KeyID}</web:KeyID>
+               <!--Optional:-->
+               <web:CustomFields>
+                  <!--Zero or more repetitions:-->
+                  <web:CustomField>
+                     <web:FieldId>${CustomField.FieldId}</web:FieldId>
+                     <!--Optional:-->
+                     <web:Name>${CustomField.Name}</web:Name>
+                     <!--Optional:-->
+                     <web:Value>${CustomField.Value}</web:Value>
+                     <!--Optional:-->
+                     <web:ValueDescription>${CustomField.ValueDescription}</web:ValueDescription>
+                     <web:IsCode>${CustomField.IsCode}</web:IsCode>
+                  </web:CustomField>
+               </web:CustomFields>
+               <web:TimeChargeID>${TimeCharge.TimeChargeID}</web:TimeChargeID>
+               <!--Optional:-->
+               <web:ResourceNumber>${TimeCharge.ResourceNumber}</web:ResourceNumber>
+               <!--Optional:-->
+               <web:FirstName>${TimeCharge.FirstName}</web:FirstName>
+               <!--Optional:-->
+               <web:LastName>${TimeCharge.LastName}</web:LastName>
+               <!--Optional:-->
+               <web:ResourceName>${TimeCharge.ResourceName}</web:ResourceName>
+               <!--Optional:-->
+               <web:HoursTypeCode>${TimeCharge.HoursTypeCode}</web:HoursTypeCode>
+               <!--Optional:-->
+               <web:HoursTypeDescription>${TimeCharge.HoursTypeDescription}</web:HoursTypeDescription>
+               <web:Hours>${TimeCharge.Hours}</web:Hours>
+               <web:DateIssued>${TimeCharge.DateIssued}</web:DateIssued>
+               <web:StopTime>${TimeCharge.StopTime}</web:StopTime>
+               <web:TotalCost>${TimeCharge.TotalCost}</web:TotalCost>
+               <!--Optional:-->
+               <web:Comments>${TimeCharge.Comments}</web:Comments>
+               <web:WorkOrderNumber>${TimeCharge.WorkOrderNumber}</web:WorkOrderNumber>
+               <!--Optional:-->
+               <web:AssetNumber>${TimeCharge.AssetNumber}</web:AssetNumber>
+               <!--Optional:-->
+               <web:AssetDescription>${TimeCharge.AssetDescription}</web:AssetDescription>
+               <!--Optional:-->
+               <web:AccountNumber>${TimeCharge.AccountNumber}</web:AccountNumber>
+               <!--Optional:-->
+               <web:AccountDescription>${TimeCharge.AccountDescription}</web:AccountDescription>
+               <!--Optional:-->
+               <web:BillableTypeCode>${TimeCharge.BillableTypeCode}</web:BillableTypeCode>
+               <!--Optional:-->
+               <web:BillableTypeDescription>${TimeCharge.BillableTypeDescription}</web:BillableTypeDescription>
+               <!--Optional:-->
+               <web:AssetGroupNumber>${TimeCharge.AssetGroupNumber}</web:AssetGroupNumber>
+               <!--Optional:-->
+               <web:WODescription>${TimeCharge.WODescription}</web:WODescription>
+               <!--Optional:-->
+               <web:ResourceShopDescription>${TimeCharge.ResourceShopDescription}</web:ResourceShopDescription>
+               <web:TaskNumber>${TimeCharge.TaskNumber}</web:TaskNumber>
+               <web:DateUpdated>${TimeCharge.DateUpdated}</web:DateUpdated>
+               <web:DateCreated>${TimeCharge.DateCreated}</web:DateCreated>
+               <!--Optional:-->
+               <web:CostCenterCode>${TimeCharge.CostCenterCode}</web:CostCenterCode>
+            </web:TimeCharge>
+         </web:sdkTimeCharge>
+      </web:SaveTimeChargeArray>
+   </soapenv:Body>
+</soapenv:Envelope>]]></envelope>
+        <function_name>WorkOrderWS.SaveTimeChargeArray</function_name>
+        <key_store/>
+        <key_store_alias/>
+        <key_store_password/>
+        <lock>false</lock>
+        <protocol_profile/>
+        <qualified_name>TMS2 [ WorkOrderWS.SaveTimeChargeArray ]</qualified_name>
+        <soap_action>http://www.frsoft.com/webservices/SaveTimeChargeArray</soap_action>
+        <soap_endpoint>http://svcmmswebtest00.slhnaz.org/TMSwebservices/WorkOrderWS.asmx</soap_endpoint>
+        <soap_message display_value="TMS2">fe82b990db166740b3d8fcfa0c96196a</soap_message>
+        <strip_whitespace>false</strip_whitespace>
+        <sys_class_name>sys_soap_message_function</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-12-06 17:56:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4f92bdd0db166740b3d8fcfa0c96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkOrderWS.SaveTimeChargeArray</sys_name>
+        <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+        <sys_update_name>sys_soap_message_function_4f92bdd0db166740b3d8fcfa0c96193a</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-12-06 17:56:39</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_ws_security>false</use_ws_security>
+        <ws_security_type/>
+        <ws_security_username_profile/>
+        <ws_security_x509_profile/>
+    </sys_soap_message_function>
+</record_update>

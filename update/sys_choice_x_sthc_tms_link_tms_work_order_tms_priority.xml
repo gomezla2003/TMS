@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="tms_priority" table="x_sthc_tms_link_tms_work_order" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Undefined</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>09c9eeacdbd6e740b3d8fcfa0c961949</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:36:27</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Undefined</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>530a66acdbd6e740b3d8fcfa0c9619a7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:40</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Undefined</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:38:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bc3a2eecdbd6e740b3d8fcfa0c9619c1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:38:28</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>7</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Undefined</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d6e9e6ecdbd6e740b3d8fcfa0c961934</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:01</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Undefined</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:35:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>da99ae6cdbd6e740b3d8fcfa0c9619ab</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:35:48</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk I - Life Support Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4fe9e6ecdbd6e740b3d8fcfa0c96195b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:41</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk I - Life Support Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:34:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>722962a8dbd6e740b3d8fcfa0c9619ec</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:35:48</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk I - Life Support Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:35:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c8a9ee2cdbd6e740b3d8fcfa0c9619b5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:36:27</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>7</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk I - Life Support Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cec962acdbd6e740b3d8fcfa0c9619c4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:02</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk I - Life Support Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ec1a66acdbd6e740b3d8fcfa0c9619a7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:38:28</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk II - High Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2d2aeaecdbd6e740b3d8fcfa0c961990</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:38:28</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk II - High Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:35:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8eb9222cdbd6e740b3d8fcfa0c9619cc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:36:27</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk II - High Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:34:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>936962a8dbd6e740b3d8fcfa0c9619f0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:35:48</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>7</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk II - High Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>afd9aaacdbd6e740b3d8fcfa0c961923</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:02</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk II - High Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b00ae6ecdbd6e740b3d8fcfa0c961968</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:41</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk III - Medium Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>032ae6ecdbd6e740b3d8fcfa0c961969</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:38:28</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk III - Medium Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:35:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4b79222cdbd6e740b3d8fcfa0c961970</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:35:48</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk III - Medium Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b90a22ecdbd6e740b3d8fcfa0c9619e6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:41</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>7</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk III - Medium Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d0e966acdbd6e740b3d8fcfa0c9619a5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:02</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk III - Medium Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f6b9222cdbd6e740b3d8fcfa0c961971</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:36:28</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>7</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk IV - Low Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>21e9aeacdbd6e740b3d8fcfa0c9619fd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:02</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>9</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk IV - Low Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6289262cdbd6e740b3d8fcfa0c9619d9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:35:49</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>8</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk IV - Low Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:36:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6bb9ee2cdbd6e740b3d8fcfa0c9619b6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:36:28</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk IV - Low Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bb2aeaecdbd6e740b3d8fcfa0c9619f8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:38:29</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Risk IV - Low Risk Equipment</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:37:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>da0a2aecdbd6e740b3d8fcfa0c961989</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:37:41</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>07b5ad94db926740b3d8fcfa0c96194f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:30:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6498eea4dbd6e740b3d8fcfa0c9619dc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:46</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:32:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>66092ee4dbd6e740b3d8fcfa0c961966</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:17</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8b386aa4dbd6e740b3d8fcfa0c961961</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:43</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>af376624dbd6e740b3d8fcfa0c9619d6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:27:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b5d7a2a4dbd6e740b3d8fcfa0c961996</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:07</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>26e7a2a4dbd6e740b3d8fcfa0c961997</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:08</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>60586ea4dbd6e740b3d8fcfa0c96199f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:44</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8aa8ea28dbd6e740b3d8fcfa0c9619b0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:47</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a157e624dbd6e740b3d8fcfa0c961975</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:41</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:01:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b7e5edd4db926740b3d8fcfa0c961992</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d31962a8dbd6e740b3d8fcfa0c9619eb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:18</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>002922e8dbd6e740b3d8fcfa0c96192e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:18</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:01:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>39f56594db926740b3d8fcfa0c9619b2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>61586ea4dbd6e740b3d8fcfa0c9619fe</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:44</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>87a86a28dbd6e740b3d8fcfa0c961972</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:48</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:28:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9fe7e2a4dbd6e740b3d8fcfa0c961943</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:08</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ae57a664dbd6e740b3d8fcfa0c961978</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:41</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-3</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>20b82a28dbd6e740b3d8fcfa0c96198d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:48</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-3</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:28:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8cf7a2a4dbd6e740b3d8fcfa0c9619c6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:08</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-3</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>91296268dbd6e740b3d8fcfa0c961965</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:19</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-3</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>93576a24dbd6e740b3d8fcfa0c96193f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:41</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-3</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f658aea4dbd6e740b3d8fcfa0c9619dc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:45</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RWO-3</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:01:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f7f5a118db926740b3d8fcfa0c961925</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0e296a68dbd6e740b3d8fcfa0c961923</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:16</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1c67a664dbd6e740b3d8fcfa0c961979</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4df766a4dbd6e740b3d8fcfa0c961967</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:07</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:01:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a206ad94db926740b3d8fcfa0c96198d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:56</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d5b82228dbd6e740b3d8fcfa0c9619ee</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:46</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SRWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:30:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ef586ea4dbd6e740b3d8fcfa0c9619fe</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:43</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 1 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>10472a24dbd6e740b3d8fcfa0c9619a2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 1 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4309a6e4dbd6e740b3d8fcfa0c961968</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:17</sys_updated_on>
+            <value>D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 1 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:00:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>59c521d4db926740b3d8fcfa0c961945</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 1 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6998aae4dbd6e740b3d8fcfa0c961973</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:46</sys_updated_on>
+            <value>D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 1 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:27:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a6d72e64dbd6e740b3d8fcfa0c9619e9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:07</sys_updated_on>
+            <value>D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 1 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c048a2a4dbd6e740b3d8fcfa0c96199a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:43</sys_updated_on>
+            <value>D</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 2 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5d47aee0dbd6e740b3d8fcfa0c96195c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 2 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:00:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5fc565d4db926740b3d8fcfa0c9619de</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 2 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:27:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6fd7e664dbd6e740b3d8fcfa0c961902</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:07</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 2 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>78482ea4dbd6e740b3d8fcfa0c961930</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:44</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 2 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>84196268dbd6e740b3d8fcfa0c961962</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:17</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 2 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e6982ea4dbd6e740b3d8fcfa0c961931</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:47</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 3 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>38192ee4dbd6e740b3d8fcfa0c961967</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:17</sys_updated_on>
+            <value>F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 3 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>39486aa4dbd6e740b3d8fcfa0c961962</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:44</sys_updated_on>
+            <value>F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 3 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5398a228dbd6e740b3d8fcfa0c961981</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:47</sys_updated_on>
+            <value>F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 3 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5e47ae24dbd6e740b3d8fcfa0c9619d8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 3 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:00:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d1d5a594db926740b3d8fcfa0c9619b9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Level 3 PM</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:27:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d4e76e64dbd6e740b3d8fcfa0c961909</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:07</sys_updated_on>
+            <value>F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOR</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>82f726a4dbd6e740b3d8fcfa0c961938</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:43</sys_updated_on>
+            <value>G</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOR</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:32:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>86b82ee4dbd6e740b3d8fcfa0c961963</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:16</sys_updated_on>
+            <value>G</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOR</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:27:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d9672a64dbd6e740b3d8fcfa0c9619ad</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:07</sys_updated_on>
+            <value>G</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOR</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:00:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e095a5d4db926740b3d8fcfa0c9619a5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>G</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOR</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:30:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e868a6a4dbd6e740b3d8fcfa0c961983</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:46</sys_updated_on>
+            <value>G</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOR</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f8c66624dbd6e740b3d8fcfa0c96199b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>G</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:32:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>19096268dbd6e740b3d8fcfa0c961961</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:16</sys_updated_on>
+            <value>H</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:30:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3f88e2e4dbd6e740b3d8fcfa0c9619a1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:46</sys_updated_on>
+            <value>H</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:00:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>64b5a994db926740b3d8fcfa0c9619d9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>H</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9e3866a4dbd6e740b3d8fcfa0c9619cf</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:43</sys_updated_on>
+            <value>H</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e2376224dbd6e740b3d8fcfa0c9619f4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>H</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EPWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:27:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>f8d7ae64dbd6e740b3d8fcfa0c96196b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:07</sys_updated_on>
+            <value>H</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:27:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>01e7e2a4dbd6e740b3d8fcfa0c961907</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:29:08</sys_updated_on>
+            <value>I</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2a4866a4dbd6e740b3d8fcfa0c9619d2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:30:44</sys_updated_on>
+            <value>I</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8f472a24dbd6e740b3d8fcfa0c9619a2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:26:40</sys_updated_on>
+            <value>I</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a11922e8dbd6e740b3d8fcfa0c96192d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:18</sys_updated_on>
+            <value>I</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:00:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b7d5a1d4db926740b3d8fcfa0c961949</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>I</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-1</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d0a8eea4dbd6e740b3d8fcfa0c9619dd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:47</sys_updated_on>
+            <value>I</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:29:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2b48aea4dbd6e740b3d8fcfa0c96190e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:24</sys_updated_on>
+            <value>j</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>15</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:28:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>75e76e64dbd6e740b3d8fcfa0c96190a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:28</sys_updated_on>
+            <value>j</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:31:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>89a826e4dbd6e740b3d8fcfa0c961982</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:47</sys_updated_on>
+            <value>j</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-06 17:01:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a9e5ad94db926740b3d8fcfa0c9619bb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:23:57</sys_updated_on>
+            <value>j</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c4572224dbd6e740b3d8fcfa0c9619c0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:32:32</sys_updated_on>
+            <value>j</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>4</dependent_value>
+            <element>tms_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LSWO-2</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:33:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ee196668dbd6e740b3d8fcfa0c9619d0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:34:18</sys_updated_on>
+            <value>j</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>tms_priority</element>
+            <name>x_sthc_tms_link_tms_work_order</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:25:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5a37e264dbd6e740b3d8fcfa0c9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tms_priority</sys_name>
+            <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+            <sys_update_name>sys_choice_x_sthc_tms_link_tms_work_order_tms_priority</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:25:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_sthc_tms_link_temp_problem</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-12-11 19:54:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cf8dbb35db52af40a1dd7d8bbf96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sthc_tms_link_temp_problem</sys_name>
+        <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+        <sys_update_name>ua_table_licensing_config_cf8dbb35db52af40a1dd7d8bbf96196e</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-12-11 19:54:33</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

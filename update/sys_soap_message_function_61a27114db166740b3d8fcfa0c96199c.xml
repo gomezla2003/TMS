@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message_function">
+    <sys_soap_message_function action="INSERT_OR_UPDATE">
+        <authentication_type/>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <certificate/>
+        <enable_mutual_auth>false</enable_mutual_auth>
+        <envelope><![CDATA[<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:web="http://www.frsoft.com/webservices">
+   <soap:Header/>
+   <soap:Body>
+      <web:SaveTimeCharge>
+         <!--Optional:-->
+         <web:header>
+            <!--Optional:-->
+            <web:Server>${header.Server}</web:Server>
+            <!--Optional:-->
+            <web:Database>${header.Database}</web:Database>
+            <!--Optional:-->
+            <web:UserName>${header.UserName}</web:UserName>
+            <!--Optional:-->
+            <web:Password>${header.Password}</web:Password>
+            <!--Optional:-->
+            <web:PassKey>${header.PassKey}</web:PassKey>
+            <!--Optional:-->
+            <web:HostName>${header.HostName}</web:HostName>
+         </web:header>
+         <web:workOrderID>${SaveTimeCharge.workOrderID}</web:workOrderID>
+         <!--Optional:-->
+         <web:sdkTimeCharge>
+            <web:SegmentID>${sdkTimeCharge.SegmentID}</web:SegmentID>
+            <web:ValidateForDataImport>${sdkTimeCharge.ValidateForDataImport}</web:ValidateForDataImport>
+            <web:KeyID>${sdkTimeCharge.KeyID}</web:KeyID>
+            <!--Optional:-->
+            <web:CustomFields>
+               <!--Zero or more repetitions:-->
+               <web:CustomField>
+                  <web:FieldId>${CustomField.FieldId}</web:FieldId>
+                  <!--Optional:-->
+                  <web:Name>${CustomField.Name}</web:Name>
+                  <!--Optional:-->
+                  <web:Value>${CustomField.Value}</web:Value>
+                  <!--Optional:-->
+                  <web:ValueDescription>${CustomField.ValueDescription}</web:ValueDescription>
+                  <web:IsCode>${CustomField.IsCode}</web:IsCode>
+               </web:CustomField>
+            </web:CustomFields>
+            <web:TimeChargeID>${sdkTimeCharge.TimeChargeID}</web:TimeChargeID>
+            <!--Optional:-->
+            <web:ResourceNumber>${sdkTimeCharge.ResourceNumber}</web:ResourceNumber>
+            <!--Optional:-->
+            <web:FirstName>${sdkTimeCharge.FirstName}</web:FirstName>
+            <!--Optional:-->
+            <web:LastName>${sdkTimeCharge.LastName}</web:LastName>
+            <!--Optional:-->
+            <web:ResourceName>${sdkTimeCharge.ResourceName}</web:ResourceName>
+            <!--Optional:-->
+            <web:HoursTypeCode>${sdkTimeCharge.HoursTypeCode}</web:HoursTypeCode>
+            <!--Optional:-->
+            <web:HoursTypeDescription>${sdkTimeCharge.HoursTypeDescription}</web:HoursTypeDescription>
+            <web:Hours>${sdkTimeCharge.Hours}</web:Hours>
+            <web:DateIssued>${sdkTimeCharge.DateIssued}</web:DateIssued>
+            <web:StopTime>${sdkTimeCharge.StopTime}</web:StopTime>
+            <web:TotalCost>${sdkTimeCharge.TotalCost}</web:TotalCost>
+            <!--Optional:-->
+            <web:Comments>${sdkTimeCharge.Comments}</web:Comments>
+            <web:WorkOrderNumber>${sdkTimeCharge.WorkOrderNumber}</web:WorkOrderNumber>
+            <!--Optional:-->
+            <web:AssetNumber>${sdkTimeCharge.AssetNumber}</web:AssetNumber>
+            <!--Optional:-->
+            <web:AssetDescription>${sdkTimeCharge.AssetDescription}</web:AssetDescription>
+            <!--Optional:-->
+            <web:AccountNumber>${sdkTimeCharge.AccountNumber}</web:AccountNumber>
+            <!--Optional:-->
+            <web:AccountDescription>${sdkTimeCharge.AccountDescription}</web:AccountDescription>
+            <!--Optional:-->
+            <web:BillableTypeCode>${sdkTimeCharge.BillableTypeCode}</web:BillableTypeCode>
+            <!--Optional:-->
+            <web:BillableTypeDescription>${sdkTimeCharge.BillableTypeDescription}</web:BillableTypeDescription>
+            <!--Optional:-->
+            <web:AssetGroupNumber>${sdkTimeCharge.AssetGroupNumber}</web:AssetGroupNumber>
+            <!--Optional:-->
+            <web:WODescription>${sdkTimeCharge.WODescription}</web:WODescription>
+            <!--Optional:-->
+            <web:ResourceShopDescription>${sdkTimeCharge.ResourceShopDescription}</web:ResourceShopDescription>
+            <web:TaskNumber>${sdkTimeCharge.TaskNumber}</web:TaskNumber>
+            <web:DateUpdated>${sdkTimeCharge.DateUpdated}</web:DateUpdated>
+            <web:DateCreated>${sdkTimeCharge.DateCreated}</web:DateCreated>
+            <!--Optional:-->
+            <web:CostCenterCode>${sdkTimeCharge.CostCenterCode}</web:CostCenterCode>
+         </web:sdkTimeCharge>
+      </web:SaveTimeCharge>
+   </soap:Body>
+</soap:Envelope>]]></envelope>
+        <function_name>WorkOrderWS1.SaveTimeCharge</function_name>
+        <key_store/>
+        <key_store_alias/>
+        <key_store_password/>
+        <lock>false</lock>
+        <protocol_profile/>
+        <qualified_name>TMS2 [ WorkOrderWS1.SaveTimeCharge ]</qualified_name>
+        <soap_action>http://www.frsoft.com/webservices/SaveTimeCharge</soap_action>
+        <soap_endpoint>http://svcmmswebtest00.slhnaz.org/TMSwebservices/WorkOrderWS.asmx</soap_endpoint>
+        <soap_message display_value="TMS2">fe82b990db166740b3d8fcfa0c96196a</soap_message>
+        <strip_whitespace>false</strip_whitespace>
+        <sys_class_name>sys_soap_message_function</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-12-06 17:56:48</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>61a27114db166740b3d8fcfa0c96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkOrderWS1.SaveTimeCharge</sys_name>
+        <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+        <sys_update_name>sys_soap_message_function_61a27114db166740b3d8fcfa0c96199c</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-12-06 17:56:48</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_ws_security>false</use_ws_security>
+        <ws_security_type/>
+        <ws_security_username_profile/>
+        <ws_security_x509_profile/>
+    </sys_soap_message_function>
+</record_update>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="campus" table="x_sthc_tms_link_service_center_locations" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deer Valley Medical Center</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_service_center_locations</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:55:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>424e6ea4db1ae740b3d8fcfa0c961911</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:56:31</sys_updated_on>
+            <value>DV</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>John C. Lincoln Medical Center and NSSC</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_service_center_locations</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:56:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>905eaa64db1ae740b3d8fcfa0c9619b0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:56:58</sys_updated_on>
+            <value>JCL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HonorHealth Medical Group</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_service_center_locations</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:56:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>fb6eeaa4db1ae740b3d8fcfa0c9619f0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:57:01</sys_updated_on>
+            <value>MG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scottsdale Osborn Medical Center</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_service_center_locations</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:56:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b08ee2e4db1ae740b3d8fcfa0c961918</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:57:27</sys_updated_on>
+            <value>OSB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scottsdale Shea Medical Center</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_service_center_locations</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:56:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1e7e6ea4db1ae740b3d8fcfa0c96192c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:57:05</sys_updated_on>
+            <value>SHEA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scottsdale Thompson Peak Medical Center</label>
+            <language>en</language>
+            <name>x_sthc_tms_link_service_center_locations</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:56:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>137ea2e4db1ae740b3d8fcfa0c961928</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:57:18</sys_updated_on>
+            <value>STP</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>campus</element>
+            <name>x_sthc_tms_link_service_center_locations</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2018-12-07 16:55:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>485eaea4db1ae740b3d8fcfa0c9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>campus</sys_name>
+            <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+            <sys_update_name>sys_choice_x_sthc_tms_link_service_center_locations_campus</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2018-12-07 16:55:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

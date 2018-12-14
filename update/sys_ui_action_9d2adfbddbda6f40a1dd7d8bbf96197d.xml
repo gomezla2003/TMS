@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2/>
+        <comments/>
+        <condition>gs.hasRole('admin');</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Send to TMS(Admin)</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[try { 
+ var s = new sn_ws.SOAPMessageV2('x_sthc_tms_link.TMS2', 'WorkOrderWS.Save');
+
+//override authentication profile 
+//authentication type ='basic'
+//r.setAuthentication(authentication type,profile name);
+
+//set a MID server name if one wants to run the message on MID
+s.setMIDServer('NSSC MID SERVER');
+
+//if the message is configured to communicate through ECC queue, either
+//by setting a MID server or calling executeAsync, one needs to set skip_sensor
+//to true. Otherwise, one may get an intermittent error that the response body is null
+//r.setEccParameter('skip_sensor', true);
+
+ s.setStringParameterNoEscape('header.HostName', '');
+ s.setStringParameterNoEscape('myWorkOrder.RequesterPhone', current.requester_phone);
+ s.setStringParameterNoEscape('myWorkOrder.AccountDescription', '');
+ s.setStringParameterNoEscape('header.Password', 'password1');
+ s.setStringParameterNoEscape('myWorkOrder.TypeCode', current.tms_type);
+ s.setStringParameterNoEscape('myWorkOrder.SegmentID', current.segment);
+ s.setStringParameterNoEscape('myWorkOrder.RequesterEmail', current.requester.email);
+ s.setStringParameterNoEscape('myWorkOrder.SubStatusDescription', '');
+ s.setStringParameterNoEscape('header.Server', 'SVCMMSDBTEST001');
+ s.setStringParameterNoEscape('myWorkOrder.KeyID', '1');
+ s.setStringParameterNoEscape('header.Database', 'TMS_Test');
+ s.setStringParameterNoEscape('myWorkOrder.SkillCode', current.tms_skills);
+ s.setStringParameterNoEscape('myWorkOrder.StatusDescription', '');
+ s.setStringParameterNoEscape('myWorkOrder.TypeDescription', '');
+ s.setStringParameterNoEscape('myWorkOrder.SkillDescription', '');
+ s.setStringParameterNoEscape('myWorkOrder.StatusCode', current.tms_status);
+ s.setStringParameterNoEscape('myWorkOrder.RequesterName', current.requester.name);
+ s.setStringParameterNoEscape('myWorkOrder.RequesterComments', current.requester_comments);
+ s.setStringParameterNoEscape('myWorkOrder.Description', current.description);
+ s.setStringParameterNoEscape('myWorkOrder.PriorityCode', current.tms_priority);
+ s.setStringParameterNoEscape('header.PassKey', '');
+ s.setStringParameterNoEscape('myWorkOrder.AccountCode', current.tms_account);
+ s.setStringParameterNoEscape('myWorkOrder.ValidateForDataImport', '0');
+ s.setStringParameterNoEscape('myWorkOrder.SubStatusCode', current.tms_sub_status);
+ s.setStringParameterNoEscape('header.UserName', 'servicenow');
+ s.setStringParameterNoEscape('header.SiteCode', getSiteCode(current.tms_location.campus));
+ s.setStringParameterNoEscape('myWorkOrder.BuildingCode', current.building.code);
+ s.setStringParameterNoEscape('myWorkOrder.LocationCode', current.tms_location.code);
+ var response = s.execute();
+ var responseBody = response.getBody(); 
+ var status = response.getStatusCode();
+	gs.info("TMS Response " + responseBody);
+	
+	var xmlDoc = new XMLDocument2();
+xmlDoc.parseXML(responseBody);
+var workOrder = xmlDoc.getNodeText('//WorkOrderNumber');
+//gs.info('TMS Number ' + workOrder);
+gs.addInfoMessage("Work order " + workOrder + " has been created in TMS");
+current.tms_word_order_number = workOrder;	
+current.tms_response = responseBody;
+current.update();
+}
+catch(ex) { 
+ var message = ex.message;
+}
+
+
+
+function getSiteCode(loc){
+	switch (loc){
+		case 'DV':
+			return '1020';
+		case 'JCL':
+			return '1010';
+		case 'MG':
+			return '1075';
+		case 'SHEA':
+			return '1030';
+		case 'STP':
+			return 'TPK';
+		case 'OSB':
+			return 'Osborn';
+		default:
+			return;
+	}
+	
+	
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2018-12-11 17:20:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>9d2adfbddbda6f40a1dd7d8bbf96197d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Send to TMS(Admin)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TMS Link" source="x_sthc_tms_link">4197218cdb56e340b3d8fcfa0c961904</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TMS Link">4197218cdb56e340b3d8fcfa0c961904</sys_scope>
+        <sys_update_name>sys_ui_action_9d2adfbddbda6f40a1dd7d8bbf96197d</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2018-12-11 17:32:36</sys_updated_on>
+        <table>x_sthc_tms_link_tms_work_order</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>
